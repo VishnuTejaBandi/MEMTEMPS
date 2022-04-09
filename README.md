@@ -11,7 +11,7 @@ Install these first
 
 - node **v14.18.1**
 - vscode
-- python
+- python **3.10.4**
 - Add Eslint and Prettier Extensions in vscode
 
 Clone this project.
@@ -30,5 +30,5 @@ npm run serve
 **Server**
 
 ```
-
+python main.py
 ```
